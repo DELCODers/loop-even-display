@@ -1,0 +1,14 @@
+C:\Users\killa\source\repos\loop even or odd\loop even or odd\bin\Debug\netcoreapp3.1\loop even or odd.exe
+C:\Users\killa\source\repos\loop even or odd\loop even or odd\bin\Debug\netcoreapp3.1\loop even or odd.deps.json
+C:\Users\killa\source\repos\loop even or odd\loop even or odd\bin\Debug\netcoreapp3.1\loop even or odd.runtimeconfig.json
+C:\Users\killa\source\repos\loop even or odd\loop even or odd\bin\Debug\netcoreapp3.1\loop even or odd.runtimeconfig.dev.json
+C:\Users\killa\source\repos\loop even or odd\loop even or odd\bin\Debug\netcoreapp3.1\loop even or odd.dll
+C:\Users\killa\source\repos\loop even or odd\loop even or odd\bin\Debug\netcoreapp3.1\loop even or odd.pdb
+C:\Users\killa\source\repos\loop even or odd\loop even or odd\obj\Debug\netcoreapp3.1\loop even or odd.csproj.AssemblyReference.cache
+C:\Users\killa\source\repos\loop even or odd\loop even or odd\obj\Debug\netcoreapp3.1\loop even or odd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\killa\source\repos\loop even or odd\loop even or odd\obj\Debug\netcoreapp3.1\loop even or odd.AssemblyInfoInputs.cache
+C:\Users\killa\source\repos\loop even or odd\loop even or odd\obj\Debug\netcoreapp3.1\loop even or odd.AssemblyInfo.cs
+C:\Users\killa\source\repos\loop even or odd\loop even or odd\obj\Debug\netcoreapp3.1\loop even or odd.csproj.CoreCompileInputs.cache
+C:\Users\killa\source\repos\loop even or odd\loop even or odd\obj\Debug\netcoreapp3.1\loop even or odd.dll
+C:\Users\killa\source\repos\loop even or odd\loop even or odd\obj\Debug\netcoreapp3.1\loop even or odd.pdb
+C:\Users\killa\source\repos\loop even or odd\loop even or odd\obj\Debug\netcoreapp3.1\loop even or odd.genruntimeconfig.cache
