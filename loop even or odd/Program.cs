@@ -10,12 +10,21 @@ namespace loop_even_or_odd
             {
                 Console.WriteLine(1)
             }
-            if(if % 2 -- 0)
+            if(int % 2 == 0)
             {
-                Console.WriteLine(1);
+                Console.WriteLine(i);
             }
 
-
+            {
+                bool runProgram = true;
+                while(runProgram)
+            }
+                Console.WriteLine("Do you want to continue to loop")
+                string choice = Console.ReadLine();
+                if (choice == n)
+            {
+                runProgram = false;
+            }
         }
     }
-    }
+    
