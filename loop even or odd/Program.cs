@@ -25,6 +25,12 @@ namespace loop_even_or_odd
             {
                 runProgram = false;
             }
-        }
-    }
+            {
+                int sum = 0;
+                for (int i = 0; i <= 5; i++) ;
+
+                sum =+ i;
+            }
+        }   Console.Writeline(sum);
+    
     
